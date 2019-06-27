@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/ModulosKernel/pruebaProc/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Documents/ModulosKernel/pruebaProc/hello.ko /home/pi/Documents/ModulosKernel/pruebaProc/hello.o /home/pi/Documents/ModulosKernel/pruebaProc/hello.mod.o ;  true
